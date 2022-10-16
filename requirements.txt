@@ -1,4 +1,5 @@
-pymongo==4.2.0
+# To connect it from cloud we need to provide srv
+pymongo[srv]==4.2.0
 
 # the -e .
 # find and run setup file 
