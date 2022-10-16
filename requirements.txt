@@ -1,0 +1,7 @@
+pymongo==4.2.0
+
+# the -e .
+# find and run setup file 
+# Then run packages = find_packages()
+# Then it find the sensor folder (it is a package as it contains __init__.py
+-e . 
